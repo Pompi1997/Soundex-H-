@@ -1,1 +1,1 @@
-# Soundex-H-
+# Soundex-Hindi
